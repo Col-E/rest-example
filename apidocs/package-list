@@ -1,0 +1,7 @@
+me.coley.addressbook
+me.coley.addressbook.endpoint
+me.coley.addressbook.exception
+me.coley.addressbook.model
+me.coley.addressbook.service
+me.coley.addressbook.service.impl
+me.coley.addressbook.util
